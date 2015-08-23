@@ -1,0 +1,6 @@
+{
+  "name" : "bluebridge",
+  "description": "WebBluetooth API Shim",
+  "developer": { "name": "Paul Theriault Pauljt@mozilla.com" },
+  "package_path": "extension.zip"
+}
