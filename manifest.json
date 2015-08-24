@@ -3,9 +3,12 @@
   "name": "BlueBridge",
   "version": "0.01",
   "author":"Paul Theriault (pauljt@mozilla.com)",
+  "icons": {
+    "128": "icons/home.png"
+  },
   "content_scripts": [{
     "matches": ["<all_urls>"],
     "css": [],
-    "js": ["script.js"]
+    "js": ["js/main.js"]
   }]
 }
